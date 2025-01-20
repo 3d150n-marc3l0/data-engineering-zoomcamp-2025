@@ -169,3 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+01-docker-terraform/*.csv
+01-docker-terraform/*.png
+01-docker-terraform/*.gz
