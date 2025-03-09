@@ -174,3 +174,11 @@ cython_debug/
 01-docker-terraform/*.csv
 01-docker-terraform/*.png
 01-docker-terraform/*.gz
+
+
+05-batch/*.gz
+05-batch/data
+05-batch/warehouse
+05-batch/notebooks/.ipynb_checkpoints
+05-batch/notebooks/*.csv
+05-batch/notebooks/*.parquet
