@@ -182,3 +182,8 @@ cython_debug/
 05-batch/notebooks/.ipynb_checkpoints
 05-batch/notebooks/*.csv
 05-batch/notebooks/*.parquet
+
+
+06-streaming/.ipynb_checkpoints
+06-streaming/*.parquet
+06-streaming/*.gz
